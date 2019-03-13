@@ -1,0 +1,22 @@
+{
+  "name": "vue-slide-component",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit"
+  },
+  "dependencies": {
+    "vue": "^2.6.8"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.5.1",
+    "@vue/cli-service": "^3.5.1",
+    "@vue/test-utils": "^1.0.0-beta.29",
+    "babel-core": "7.0.0-bridge.0",
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "vue-template-compiler": "^2.6.8"
+  }
+}
